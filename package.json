@@ -1,7 +1,17 @@
 {
   "name": "sprettie",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
+  "readmeFilename": "README.md",
+  "main": "index.ts",
+  "author": {
+    "name": "Ian de São Pedro",
+    "email": "ianviana_2009@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianpvs/sprettie.git"
+  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",

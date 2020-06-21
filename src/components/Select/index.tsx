@@ -13,7 +13,6 @@ import {
   Point
 } from './styles'
 
-import BottomPopUp from '../BottomPopUp'
 import Icon from 'react-native-vector-icons/Ionicons'
 
 import {
