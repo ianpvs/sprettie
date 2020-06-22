@@ -1,6 +1,6 @@
 {
   "name": "sprettie",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": false,
   "readmeFilename": "README.md",
   "main": "index.ts",
