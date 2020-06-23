@@ -1,15 +1,15 @@
 {
   "name": "sprettie",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "private": false,
   "description": "Componentes estilizados e animados para react-native",
-  "files": [
-    "./src"
-  ],
   "keywords": [
     "Componentes",
     "React-native",
     "React-native animated select"
+  ],
+  "files": [
+    "src"
   ],
   "readmeFilename": "README.md",
   "main": "index.ts",
