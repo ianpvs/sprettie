@@ -5,10 +5,9 @@ import React, {
 
 import { Animated, TouchableWithoutFeedback, View, Dimensions } from 'react-native'
 import { PanGestureHandler, State } from 'react-native-gesture-handler'
-import Modal from 'react-native-modal'
 
 import {
-    CardProps
+    BottomPopUpProps
 } from './types'
 
 import {
@@ -17,7 +16,7 @@ import {
     Point
 } from './styles'
 
-const Card: React.FC<CardProps> = ({
+const BottomPopUp: React.FC<BottomPopUpProps> = ({
     onDismiss,
     maxHeight,
     minHeight,
@@ -120,4 +119,4 @@ const Card: React.FC<CardProps> = ({
     )
 }
 
-export default Card
+export default BottomPopUp
