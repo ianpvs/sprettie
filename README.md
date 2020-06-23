@@ -4,7 +4,7 @@
 
 `$ npm install sprettie --save`
 
-ou
+or
 
 `$ yarn add sprettie`
 
